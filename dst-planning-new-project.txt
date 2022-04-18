@@ -1,0 +1,2 @@
+web portfolio owner -> components: navbar, header, card, footer
+web portfolio client
