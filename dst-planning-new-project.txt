@@ -1,2 +1,2 @@
-web portfolio owner -> components: navbar, header, card, footer
-web portfolio client
+web portfolio owner -> components: navbar, header, footer
+web portfolio client -> components: navbar, header, whatsapp, footer, contact
